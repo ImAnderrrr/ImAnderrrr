@@ -49,4 +49,5 @@ Explorador de personajes de Rick and Morty, con filtros dinámicos, paginación 
 
 ---
 
-✨ *“El código es como el arte: mejora con cada iteración.”*  
+👾 "El código es mi joystick y cada bug, un jefe final."
+
