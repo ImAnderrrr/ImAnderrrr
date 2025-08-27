@@ -3,7 +3,7 @@
 💻 **Estudiante de Ingeniería en Sistemas** | 🚀 **Desarrollador en formación**  
 
 Me gusta crear software que **resuelva problemas reales**, no solo ejemplos de tutorial.  
-Siempre ando explorando nuevas tecnologías y armando proyectos “cheleros” que se puedan mostrar en un portafolio profesional.  
+Siempre ando explorando nuevas tecnologías y armando proyectos chileros.
 
 ---
 
