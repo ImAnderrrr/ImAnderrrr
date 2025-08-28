@@ -18,9 +18,6 @@ Aplicación de pedidos con **Room** + **WorkManager** + **Firebase**, que funcio
 Un gestor de tareas tipo Trello, hecho con **React, Tailwind, Zustand y DnD Kit** para drag & drop dinámico.  
 📦 [Repositorio](https://github.com/ImAnderrrr/kanban-flow)  
 
-🔹 **Rick & Morty Explorer (SPA)**  
-Explorador de personajes de Rick and Morty, con filtros dinámicos, paginación y UI en español.  
-📦 [Repositorio](https://github.com/ImAnderrrr/rick-morty-spa)  
 
 ---
 
