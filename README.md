@@ -11,7 +11,7 @@ Siempre ando explorando nuevas tecnologías y armando proyectos chileros.
 
 🔹 **Distribuidora Jireh (Android, Offline + Sync Firebase)**  
 Aplicación de pedidos con **Room** + **WorkManager** + **Firebase**, que funciona sin internet y sincroniza al recuperar conexión.  
-📺 [Demo en YouTube](https://youtu.be/TU_VIDEO) | [Repositorio Demo](https://github.com/ImAnderrrr/distribuidora-demo)  
+📺 [Demo en YouTube](https://youtu.be/OIiElxMmHgI?si=5ptAj87SI2kiLRP8) | [Repositorio Demo](https://github.com/ImAnderrrr/distribuidora-demo)  
 
 🔹 **KanbanFlow (React + DnD Kit)**  
 Un gestor de tareas tipo Trello, hecho con **React, Tailwind, Zustand y DnD Kit** para drag & drop dinámico.  
