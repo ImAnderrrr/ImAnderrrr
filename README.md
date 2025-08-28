@@ -11,6 +11,7 @@ Siempre ando explorando nuevas tecnologías y armando proyectos chileros.
 
 🔹 **Distribuidora Jireh (Android, Offline + Sync Firebase)**  
 Aplicación de pedidos con **Room** + **WorkManager** + **Firebase**, que funciona sin internet y sincroniza al recuperar conexión.  
++ Explicación de la Demo (Firebase + Caché + Android Studio)
 📺 [Demo en YouTube](https://youtu.be/OIiElxMmHgI?si=5ptAj87SI2kiLRP8) | [Repositorio Demo](https://github.com/ImAnderrrr/distribuidora-demo)  
 
 🔹 **KanbanFlow (React + DnD Kit)**  
